@@ -21,7 +21,7 @@ My aim with this repository is to demonstrate my technical capabilities, problem
 
 For a more comprehensive look at my professional background, detailed case studies, and a selection of my key projects, please visit my dedicated **online portfolio**:
 
-[Visit Vanny's Online Portfolio](**https://github.com/vannykhrnsaa/Vanny-s-Project/blob/2f7d048c189bfc29656442e8956c1b2775aa274f/Portofolio%20Vanny.pdf**)
+[Visit Vanny's Online Portfolio](**https://github.com/vannykhrnsaa/Vanny-s-Project/blob/main/Portofolio%20Vanny.pdf**)
 
 ---
 
